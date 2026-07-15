@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning **[SoftDev}**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{RaymondWijayaGautama}/{RaymondWijayaGautama}/issues)**
 
 <br>
 
