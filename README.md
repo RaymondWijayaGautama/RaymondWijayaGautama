@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-//Icon skill
+
 <br>
 
 <p align="center">
